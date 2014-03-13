@@ -1,0 +1,16 @@
+<snippet>
+	<content><![CDATA[
+<div class="form-group">
+	<label for="select-$1">$2</label>
+	<select name="" id="select-$1" class="form-control" required="required">
+		<option value="">$3</option>
+	</select>
+</div>
+
+$4
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>dd</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>
