@@ -10,7 +10,7 @@ appControllers.controller('HomeController', function($http, $scope, $rootScope, 
 	$scope.init = function () {
 		$scope.loadData();
 		$scope.setupKeys();
-		$scope.fakeData = $scope.generateData(100);
+		$scope.fakeData = $scope.generateData(10);
 	}
 
 	/** 
@@ -44,7 +44,8 @@ appControllers.controller('HomeController', function($http, $scope, $rootScope, 
                 "First Name": Faker.Name.firstName(),
                 "Last Name": Faker.Name.lastName(),
                 "City": Faker.Address.city(),
-                "Color": Faker.random.array_element(["Green", "Red", "Orange"])
+                "Color": Faker.random.array_element(["Green", "Red", "Orange"]),
+                "Number": i
             }
  
             fakeData.values.push(data);

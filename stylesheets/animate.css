@@ -237,7 +237,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
   }
 }
 
-.shake {
+.schütteln {
   -webkit-animation-name: shake;
   animation-name: shake;
 }
@@ -301,7 +301,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
   }
 }
 
-.swing {
+.schwingen {
   -webkit-transform-origin: top center;
   -ms-transform-origin: top center;
   transform-origin: top center;
@@ -2460,7 +2460,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
   }
 }
 
-.slideInDown {
+.vonunten {
   -webkit-animation-name: slideInDown;
   animation-name: slideInDown;
 }
@@ -2493,7 +2493,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
   }
 }
 
-.slideInLeft {
+.vonlinks {
   -webkit-animation-name: slideInLeft;
   animation-name: slideInLeft;
 }
@@ -2526,7 +2526,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
   }
 }
 
-.slideInRight {
+.vonrechts {
   -webkit-animation-name: slideInRight;
   animation-name: slideInRight;
 }
@@ -2559,7 +2559,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
   }
 }
 
-.slideOutLeft {
+.nachlinks {
   -webkit-animation-name: slideOutLeft;
   animation-name: slideOutLeft;
 }
@@ -2592,7 +2592,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
   }
 }
 
-.slideOutRight {
+.nachrechts {
   -webkit-animation-name: slideOutRight;
   animation-name: slideOutRight;
 }
@@ -2625,7 +2625,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
   }
 }
 
-.slideOutUp {
+.nachoben {
   -webkit-animation-name: slideOutUp;
   animation-name: slideOutUp;
 }
